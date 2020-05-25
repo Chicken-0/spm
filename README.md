@@ -56,3 +56,4 @@ Nếu gặp lỗi sau khi cài bản port, hãy vào [đây](https://github.com/
 
 ## Changelog
 - 10/03/2020: V1.0 Initial
+- 25/05/2020: Update v11 Hoshi 
