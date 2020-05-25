@@ -31,7 +31,7 @@ Hãy **ĐỌC KĨ** các nội dung dưới đây, đặc biệt là phần hư�
 - **B6**: Cài lại file apk bản port -> mở game -> vào mục `Buy Items` chọn `Restore Purchased` -> Xong.
 
 ## Known issues
-- Bản port không thể mua route. Do phải can thiệp vào file apk để dịch một số text và chỉnh lại hệ thống update, nên việc mua route trên apk đã chỉnh sửa là không thể(Trừ trường hợp máy bạn đã can thiệp, chỉnh sửa hệ thống). Cách khắc phục tạm thời là phải cài bản gốc để mua rồi cài lại bản port.
+- Bản port không thể mua route. Do phải can thiệp vào file apk để dịch một số text và chỉnh lại hệ thống update, nên việc mua route trên apk đã chỉnh sửa là không thể (Trừ trường hợp máy bạn đã can thiệp, chỉnh sửa hệ thống). Cách khắc phục tạm thời là phải cài bản gốc để mua rồi cài lại bản port.
 
 ## Bug report
 - Bản port hiện tại không nhận báo lỗi từ người dùng.
