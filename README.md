@@ -3,6 +3,7 @@ Hãy **ĐỌC KĨ** các nội dung dưới đây, đặc biệt là phần hư�
 
 ## Thông tin chung
 - Đây là bản port dành cho Android và sẽ không có phiên bản dành cho hệ điều hành IOS.
+- Bản port được tạo ra với mục đích ban đầu là dành cho bản thân người port, nên các vấn đề về lỗi phát sinh trong và sau khi cài sẽ không được hỗ trợ. 
 - Bản dịch được lấy từ [đây](http://www.hoshivsub.com/2018/12/summer-pockets.html), của nhóm Hoshi.
 - Nghiêm cấm sử dụng bản port dưới bất kì hình thức thương mại nào. 
 - Game chỉ cho bạn chơi miễn phí route Shiroha, các route khác thì bạn phải mua.
@@ -11,13 +12,13 @@ Hãy **ĐỌC KĨ** các nội dung dưới đây, đặc biệt là phần hư�
 
 ## Cài đặt
 1. Trường hợp bạn chưa cài game gốc trong máy.
-	- Tải file apk ở [đây](https://github.com/Chicken-0/spm/raw/master/patch_data/sp_vi_v1.0.apk). Cài đặt và mở như bình thường (quá trình tải dữ liệu sẽ bắt đầu).
+	- Tải file apk ở [đây](https://github.com/Chicken-0/spm/raw/master/patch_data/apk/Summer_Pockets_Vietnamese-v1.0.apk). Cài đặt và mở như bình thường (quá trình tải dữ liệu sẽ bắt đầu).
 
 2. Trường hợp bạn đã cài game bản gốc trong máy.
 	- **B1**: Vào thư mục `Android` -> `data` -> đổi tên thư mục `jp.co.product.kn.summerpockets` thành tên khác.
 	Ví dụ đổi thành `1jp.co.product.kn.summerpockets` chẳng hạn.
 	
-	- **B2**: Gỡ game bản gốc ra khỏi máy và tải + cài đặt file apk ở [đây](https://github.com/Chicken-0/spm/raw/master/patch_data/sp_vi_v1.0.apk). Sau khi cài thì chưa mở vội.
+	- **B2**: Gỡ game bản gốc ra khỏi máy và tải + cài đặt file apk ở [đây](https://github.com/Chicken-0/spm/raw/master/patch_data/apk/Summer_Pockets_Vietnamese-v1.0.apk). Sau khi cài thì chưa mở vội.
 	- **B3**: Đổi lại tên thư mục đã đổi ở `B1` về như cũ. Sau đó mở game, để bắt đầu quá trình cập nhật bản port.
 	
 	*Mục đích cơ bản của các bước trên là tránh việc tải lại dữ liệu game (hơn 3GB) khi gỡ game khỏi máy.*
@@ -31,7 +32,7 @@ Hãy **ĐỌC KĨ** các nội dung dưới đây, đặc biệt là phần hư�
 - **B6**: Cài lại file apk bản port -> mở game -> vào mục `Buy Items` chọn `Restore Purchased` -> Xong.
 
 ## Known issues
-- Bản port không thể mua route. Do phải can thiệp vào file apk để dịch một số text và chỉnh lại hệ thống update, nên việc mua route trên apk đã chỉnh sửa là không thể (Trừ trường hợp máy bạn đã can thiệp, chỉnh sửa hệ thống). Cách khắc phục tạm thời là phải cài bản gốc để mua rồi cài lại bản port.
+- Bản port không thể mua route. Do phải can thiệp vào file apk để dịch một số text và chỉnh lại hệ thống update, nên việc mua route trên apk đã chỉnh sửa là không thể (trừ trường hợp máy bạn đã can thiệp, chỉnh sửa hệ thống). Cách khắc phục tạm thời là phải cài bản gốc để mua rồi cài lại bản port.
 
 ## Bug report
 - Bản port hiện tại không nhận báo lỗi từ người dùng.
@@ -50,7 +51,7 @@ Hãy **ĐỌC KĨ** các nội dung dưới đây, đặc biệt là phần hư�
 
 ## Bonus
 - Bản port không bắt buộc phải có mạng mới vào được game (trường hợp bạn đã tải đầy đủ data).
-- Có thể sẽ bonus route tùy thuộc vào tình hình :D.
+- ~~Có thể sẽ bonus route tùy thuộc vào tình hình :D~~
 
 ## Changelog
 - 10/03/2020: V1.0 Initial
