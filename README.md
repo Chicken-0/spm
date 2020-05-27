@@ -56,3 +56,4 @@ Hãy **ĐỌC KĨ** các nội dung dưới đây, đặc biệt là phần hư�
 ## Changelog
 - 10/03/2020: V1.0 Initial
 - 25/05/2020: Update v11 Hoshi 
+- 27/05/2020: Update v12 Hoshi 
