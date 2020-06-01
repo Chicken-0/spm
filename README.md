@@ -6,7 +6,7 @@ Hãy **ĐỌC KĨ** các nội dung dưới đây, đặc biệt là phần hư�
 - Bản port được tạo ra với mục đích ban đầu là dành cho bản thân người port, nên các vấn đề về lỗi phát sinh trong và sau khi cài sẽ không được hỗ trợ. 
 - Bản dịch được lấy từ [đây](http://www.hoshivsub.com/2018/12/summer-pockets.html), của nhóm Hoshi.
 - Nghiêm cấm sử dụng bản port dưới bất kì hình thức thương mại nào. 
-- Game chỉ cho bạn chơi miễn phí route Shiroha, các route khác thì bạn phải mua.
+- Ngoài route Shiroha, bản port mở khóa thêm 3 route nữ chính, 2 route còn lại bạn phải mua.
 - Bản port sẽ để menu + thiết lập là tiếng anh. Bạn có thể vào `System` -> `Manual` để đọc hướng dẫn cách dùng.
 - Bản port sẽ tự cập nhật patch data mỗi khi có patch mới.
 
@@ -51,9 +51,12 @@ Hãy **ĐỌC KĨ** các nội dung dưới đây, đặc biệt là phần hư�
 
 ## Bonus
 - Bản port không bắt buộc phải có mạng mới vào được game (trường hợp bạn đã tải đầy đủ data).
-- ~~Có thể sẽ bonus route tùy thuộc vào tình hình :D~~
+- Mở khóa thêm 3 route là Ao, Tsumugi và Kamome.
 
 ## Changelog
 - 10/03/2020: V1.0 Initial
 - 25/05/2020: Update v11 Hoshi 
 - 27/05/2020: Update v12 Hoshi 
+- 01/06/2020: 
+	+ Unlock Ao, Tsumugi, Kamome routes.
+	+ Fix limit charater in popup message.
