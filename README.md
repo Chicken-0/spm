@@ -12,13 +12,13 @@ Hãy **ĐỌC KĨ** các nội dung dưới đây, đặc biệt là phần hư�
 
 ## Cài đặt
 1. Trường hợp bạn chưa cài game gốc trong máy.
-	- Tải file apk ở [đây](https://mega.nz/file/fZgFHQbB#kBOK1dh1JhvjvVlYZTpyGBo9nUERBRY_OCBndoT89Vo). Cài đặt và mở như bình thường (quá trình tải dữ liệu sẽ bắt đầu).
+	- Tải file apk ở [đây](https://mega.nz/file/SVRDDaTD#1b8y0Fz4w1B64uES25bxjn_CJ-DhevuXU6SMWBfjt9g). Cài đặt và mở như bình thường (quá trình tải dữ liệu sẽ bắt đầu).
 
 2. Trường hợp bạn đã cài game bản gốc trong máy.
 	- **B1**: Vào thư mục `Android` -> `data` -> đổi tên thư mục `jp.co.product.kn.summerpockets` thành tên khác.
 	Ví dụ đổi thành `1jp.co.product.kn.summerpockets` chẳng hạn.
 	
-	- **B2**: Gỡ game bản gốc ra khỏi máy và tải + cài đặt file apk ở [đây](https://mega.nz/file/fZgFHQbB#kBOK1dh1JhvjvVlYZTpyGBo9nUERBRY_OCBndoT89Vo). Sau khi cài thì chưa mở vội.
+	- **B2**: Gỡ game bản gốc ra khỏi máy và tải + cài đặt file apk ở [đây](https://mega.nz/file/SVRDDaTD#1b8y0Fz4w1B64uES25bxjn_CJ-DhevuXU6SMWBfjt9g). Sau khi cài thì chưa mở vội.
 	- **B3**: Đổi lại tên thư mục đã đổi ở `B1` về như cũ. Sau đó mở game, để bắt đầu quá trình cập nhật bản port.
 	
 	*Mục đích cơ bản của các bước trên là tránh việc tải lại dữ liệu game (hơn 3GB) khi gỡ game khỏi máy.*
