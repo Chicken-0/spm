@@ -6,19 +6,19 @@ Hãy **ĐỌC KĨ** các nội dung dưới đây, đặc biệt là phần hư�
 - Bản port được tạo ra với mục đích ban đầu là dành cho bản thân người port, nên các vấn đề về lỗi phát sinh trong và sau khi cài sẽ không được hỗ trợ. 
 - Bản dịch được lấy từ [đây](http://www.hoshivsub.com/2018/12/summer-pockets.html), của nhóm Hoshi.
 - Nghiêm cấm sử dụng bản port dưới bất kì hình thức thương mại nào. 
-- Ngoài route Shiroha, bản port mở khóa thêm 3 route nữ chính, 2 route còn lại bạn phải mua.
+- Game chỉ cho bạn chơi miễn phí route Shiroha, các route khác thì bạn phải mua.
 - Bản port sẽ để menu + thiết lập là tiếng anh. Bạn có thể vào `System` -> `Manual` để đọc hướng dẫn cách dùng.
 - Bản port sẽ tự cập nhật patch data mỗi khi có patch mới.
 
 ## Cài đặt
 1. Trường hợp bạn chưa cài game gốc trong máy.
-	- Tải file apk ở [đây](https://github.com/Chicken-0/spm/raw/master/patch_data/apk/Summer_Pockets_Vietnamese-v1.0.apk). Cài đặt và mở như bình thường (quá trình tải dữ liệu sẽ bắt đầu).
+	- Tải file apk ở [đây](https://mega.nz/file/fZgFHQbB#kBOK1dh1JhvjvVlYZTpyGBo9nUERBRY_OCBndoT89Vo). Cài đặt và mở như bình thường (quá trình tải dữ liệu sẽ bắt đầu).
 
 2. Trường hợp bạn đã cài game bản gốc trong máy.
 	- **B1**: Vào thư mục `Android` -> `data` -> đổi tên thư mục `jp.co.product.kn.summerpockets` thành tên khác.
 	Ví dụ đổi thành `1jp.co.product.kn.summerpockets` chẳng hạn.
 	
-	- **B2**: Gỡ game bản gốc ra khỏi máy và tải + cài đặt file apk ở [đây](https://github.com/Chicken-0/spm/raw/master/patch_data/apk/Summer_Pockets_Vietnamese-v1.0.apk). Sau khi cài thì chưa mở vội.
+	- **B2**: Gỡ game bản gốc ra khỏi máy và tải + cài đặt file apk ở [đây](https://mega.nz/file/fZgFHQbB#kBOK1dh1JhvjvVlYZTpyGBo9nUERBRY_OCBndoT89Vo). Sau khi cài thì chưa mở vội.
 	- **B3**: Đổi lại tên thư mục đã đổi ở `B1` về như cũ. Sau đó mở game, để bắt đầu quá trình cập nhật bản port.
 	
 	*Mục đích cơ bản của các bước trên là tránh việc tải lại dữ liệu game (hơn 3GB) khi gỡ game khỏi máy.*
@@ -51,7 +51,7 @@ Hãy **ĐỌC KĨ** các nội dung dưới đây, đặc biệt là phần hư�
 
 ## Bonus
 - Bản port không bắt buộc phải có mạng mới vào được game (trường hợp bạn đã tải đầy đủ data).
-- Mở khóa thêm 3 route là Ao, Tsumugi và Kamome.
+- ~~Mở khóa thêm 3 route là Ao, Tsumugi và Kamome.~~
 
 ## Changelog
 - 10/03/2020: V1.0 Initial
@@ -60,3 +60,7 @@ Hãy **ĐỌC KĨ** các nội dung dưới đây, đặc biệt là phần hư�
 - 01/06/2020: 
 	+ Unlock Ao, Tsumugi, Kamome routes.
 	+ Fix limit charater in popup message.
+- 06/06/2020:
+	+ Update Apk v1.1.
+	+ Update entry point.
+	+ Remove unlocked route.
