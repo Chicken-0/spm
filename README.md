@@ -1,41 +1,29 @@
 # Summer Pockets Android - Vietnamese version
-Hãy **ĐỌC KĨ** các nội dung dưới đây, đặc biệt là phần hướng dẫn mua route (nếu bạn muốn mua) để tránh gặp lỗi.
+Hãy **ĐỌC KĨ** các nội dung dưới đây.
 
 ## Thông tin chung
-- Đây là bản port dành cho Android và sẽ không có phiên bản dành cho hệ điều hành IOS.
+- Đây là phiên bản port dành cho Android.
 - Bản port được tạo ra với mục đích ban đầu là dành cho bản thân người port, nên các vấn đề về lỗi phát sinh trong và sau khi cài sẽ không được hỗ trợ. 
 - Bản dịch được lấy từ [đây](http://www.hoshivsub.com/2018/12/summer-pockets.html), của nhóm Hoshi.
 - Nghiêm cấm sử dụng bản port dưới bất kì hình thức thương mại nào. 
 - Game chỉ cho bạn chơi miễn phí route Shiroha, các route khác thì bạn phải mua.
-- Bản port sẽ để menu + thiết lập là tiếng anh. Bạn có thể vào `System` -> `Manual` để đọc hướng dẫn cách dùng.
-- Bản port sẽ tự cập nhật patch data mỗi khi có patch mới.
 
 ## Cài đặt
-1. Trường hợp bạn chưa cài game gốc trong máy.
-	- Tải file apk ở [đây](https://mega.nz/file/SVRDDaTD#1b8y0Fz4w1B64uES25bxjn_CJ-DhevuXU6SMWBfjt9g). Cài đặt và mở như bình thường (quá trình tải dữ liệu sẽ bắt đầu).
+1. Yêu cầu đã cài phiên bản gốc trên Google Play và đã tải dữ liêu của game.
 
-2. Trường hợp bạn đã cài game bản gốc trong máy.
-	- **B1**: Vào thư mục `Android` -> `data` -> đổi tên thư mục `jp.co.product.kn.summerpockets` thành tên khác.
-	Ví dụ đổi thành `1jp.co.product.kn.summerpockets` chẳng hạn.
-	
-	- **B2**: Gỡ game bản gốc ra khỏi máy và tải + cài đặt file apk ở [đây](https://mega.nz/file/SVRDDaTD#1b8y0Fz4w1B64uES25bxjn_CJ-DhevuXU6SMWBfjt9g). Sau khi cài thì chưa mở vội.
-	- **B3**: Đổi lại tên thư mục đã đổi ở `B1` về như cũ. Sau đó mở game, để bắt đầu quá trình cập nhật bản port.
-	
-	*Mục đích cơ bản của các bước trên là tránh việc tải lại dữ liệu game (hơn 3GB) khi gỡ game khỏi máy.*
+2. Tải file zip ở [đây](https://mega.nz/file/rF5kWRAC#33_wWvQZjzOuUcuZbcyYbQzmEpyMmtuD6fbjNQw7oAI).
 
-## Hướng dẫn mua route
-- **B1**: Đổi tên lại thư mục data của game (như `B1 mục 2` phần `Cài đặt` ở trên) thành tên khác.
-- **B2**: Gỡ bản port ra khỏi máy và vào Google Play để tải bản game gốc [link](https://play.google.com/store/apps/details?id=jp.co.product.kn.summerpockets&hl=en_US).
-- **B3**: Đổi lại thư mục data của game về như ban đầu.
-- **B4**: Mở game rồi vào mua route tương ứng.
-- **B5**: Sau khi mua xong, làm lại `B1` -> gỡ game gốc -> đổi lại tên thư mục về như cũ.
-- **B6**: Cài lại file apk bản port -> mở game -> vào mục `Buy Items` chọn `Restore Purchased` -> Xong.
+3. Sao lưu hai file `Scene.pck` và `Gameexe.dat` ở thư mục `Android` -> `data` -> `jp.co.product.kn.summerpockets` -> `files` -> `___EXTEND_SummerPockets`, dùng trong trường hợp muốn trở về phiên bản gốc.
+
+4. Giải nén file zip vừa tải vào thư mục `Android` -> `data`.
+
+5. Mở game :baby_chick:.
 
 ## Known issues
-- Bản port không thể mua route. Do phải can thiệp vào file apk để dịch một số text và chỉnh lại hệ thống update, nên việc mua route trên apk đã chỉnh sửa là không thể (trừ trường hợp máy bạn đã can thiệp, chỉnh sửa hệ thống). Cách khắc phục tạm thời là phải cài bản gốc để mua rồi cài lại bản port.
+- Bản port sẽ có lẫn tiếng Anh/Nhật ở giao diện do không can thiệp vào file apk.
 
 ## Bug report
-- Bản port hiện tại không nhận báo lỗi từ người dùng.
+- Bản port không nhận báo lỗi từ người dùng.
 
 ## Authors
 - [Chicken-0](https://github.com/Chicken-0) aka [MMTT](https://www.youtube.com/channel/UCO-9qmimXDA8PGJiQWtd0wQ)
@@ -49,9 +37,8 @@ Hãy **ĐỌC KĨ** các nội dung dưới đây, đặc biệt là phần hư�
 - [frc](https://forums.fuwanovel.net/profile/18910-frc_/)
 - [Hoshi fansub](http://www.hoshivsub.com)
 
-## Bonus
-- Bản port không bắt buộc phải có mạng mới vào được game (trường hợp bạn đã tải đầy đủ data).
-- ~~Mở khóa thêm 3 route là Ao, Tsumugi và Kamome.~~
+## Notes
+- Phiên bản cập nhật ngày 11/07/2021 sẽ là bản cập nhật cuối mình làm, nên các bản sau này, hãy hy vọng sẽ có ai/nhóm nào đó tiếp tục làm.
 
 ## Changelog
 - 10/03/2020: V1.0 Initial
@@ -59,8 +46,11 @@ Hãy **ĐỌC KĨ** các nội dung dưới đây, đặc biệt là phần hư�
 - 27/05/2020: Update v12 Hoshi 
 - 01/06/2020: 
 	+ Unlock Ao, Tsumugi, Kamome routes.
-	+ Fix limit charater in popup message.
+	+ Fix limit character in popup message.
 - 06/06/2020:
 	+ Update Apk v1.1.
 	+ Update entry point.
 	+ Remove unlocked route.
+- 11/07/2021:
+	+ Update v13 Hoshi.
+	+ Change patch method.
